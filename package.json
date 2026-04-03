@@ -2,7 +2,7 @@
   "name": "node-demo",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo Build step (optional)"
+    "build": "echo Build step optional"
   },
   "dependencies": {
     "express": "^4.18.2"
